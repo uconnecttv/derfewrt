@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 ,Asian TV Icc
+http://10.16.100.203:8082/bangla/tv_asian.m3u8
+#EXTINF:-1 ,ATN News
+https://rhridoy136.shortcm.li/atnnews.m3u8
+#EXTINF:-1 ,Boshakhi TV
+https://rhridoy136.shortcm.li/boishakhitv.m3u8
+#EXTINF:-1 ,Channal 24
+https://rhridoy136.shortcm.li/channel24.m3u8
+#EXTINF:-1 ,Channal 9 HD
+https://rhridoy136.shortcm.li/channel9.m3u8
+#EXTINF:-1 ,GTV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
+#EXTINF:-1 ,ATN Bangla
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:-1 ,Zee Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/21.ts
+#EXTINF:-1 ,Ad sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 ,Ad sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 ,Ad sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+#EXTINF:-1 ,Discovery Bangla HD
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/61.ts
+#EXTINF:-1 ,Star movies
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
+#EXTINF:-1 ,HBO
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/44.ts
+#EXTINF:-1 ,Action HD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
+#EXTINF:-1 ,Mtv
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+#EXTINF:-1 ,Zing
+https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 ,Hungama
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 ,9xm
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/btv.jpg?x91288",BTV World
+https://rhridoy136.shortcm.li/btvworld.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/chi-150x150.jpg?x91288",Channel I
+https://rhridoy136.shortcm.li/channeli.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/dbc-news.jpg?x91288",DBC News
+https://rhridoy136.shortcm.li/dbcnews.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/81/Desh_tv.png",Desh TV
+https://rhridoy136.shortcm.li/deshtv.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="https://i.imgur.com/T38Oiwl.jpg",EKUSHEY TV HD
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/inds.png?x91288",Independent
+https://rhridoy136.shortcm.li/independenttv.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/10/jamuna-150x150.jpg?x91288",Jamuna TV
+https://rhridoy136.shortcm.li/jamunatv.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/mohona.jpg?x91288",MOHONA TV
+https://rhridoy136.shortcm.li/mohonatv.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/mytv.jpg?x91288",MY TV
+https://rhridoy136.shortcm.li/mytv.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg?x91288",News 24
+https://rhridoy136.shortcm.li/news24.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/rtvbd.jpg?x91288",RTV
+https://rhridoy136.shortcm.li/rtv.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2017/01/songsodtv.jpg?x91288",Sangsad TV
+https://rhridoy136.shortcm.li/sangsadtv.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2015/12/satvs.jpg?x91288",SATV
+https://rhridoy136.shortcm.li/satv.m3u8
+#EXTINF:-1 group-title="Bangla News" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/somoynews.jpg?x91288",Shomoy TV
+https://rhridoy136.shortcm.li/shomoytv.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.ibb.co/0JLNqRC/Itv.jpg",ITV IPTV [BD]
+http://162.244.81.142:1935/live/livestream/playlist.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/7HplreU.jpg",NANDAN IPTV [BD]
+http://nandansyst.com/hls/nandan.m3u8?@amarnettv.live
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Her Net
+https://server1.jadubd.com/hernettv/hernettv/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Ktv Bangla
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://yt3.ggpht.com/a/AATXAJyMGWMV2WF6Eh6zINMZMmykJoACr-n14neEDKu9=s900-c-k-c0x00ffffff-no-rj",Nandan
+http://nandansyst.com/hls/nandan.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://media-exp1.licdn.com/dms/image/C4E0BAQE158A8SYFWWw/company-logo_200_200/0?e=2159024400&v=beta&t=5FmfI6ynqEqdIlnTmc3cUkRp5vmwV6RnC5kZLA_4LSw",TBN24 USA
+http://fingerme.dg21bd.com/TBN24/index.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://i.imgur.com/KXsOj3L.png",BOISHAKHI TV HD
+http://iptvbd.jagobd.com:1931/boishakhi/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/BrightWallTechnology/iptv-icon/blob/main/FFCC00-01.jpeg?raw=true",Calcutta News [IN]
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/cnews.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/CBHD.jpg",Colors Bangla HD [IN]
+https://yuppcatchup.akamaized.net/preview/etvbengali/2500.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/atnislamictv.jpg?x91288",ATN Islamic
+https://rhridoy136.shortcm.li/atnislamic.m3u8
+#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://www.jagobd.com/wp-content/uploads/2016/02/bijoytv.jpg",Bijoy TV
+https://rhridoy136.shortcm.li/bijoytv.m3u8
